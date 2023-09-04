@@ -1,0 +1,9 @@
+CameraUrl=rtsp://admin:adma8211@192.168.1.64:554/Streaming/Channels/101
+FPS      =25
+Width    =1280
+Height   =720
+Format   =MPEG-4
+Incode   =.avi
+Filename =default
+VideoPath=./videos/
+Time     =5
